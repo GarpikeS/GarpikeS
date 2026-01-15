@@ -11,14 +11,10 @@
 ###
 
 <div align="center">
- <a href="https://t.me/AgentArbuzik" target="_blank">
+ <a href="https://t.me/tehnomaniak07" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a> 
-  <a href="https://dzen.ru/sivaev_vladimir" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dzen&logo=Dzen&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Dzen logo"  /> 
-  </a>
   <a href="https://vk.com/popugau_kesha" target="_blank">
-    <a href="https://t.me/tehnomaniak07" target="_blank">
     <img src="https://img.shields.io/static/v1?message=VK&logo=VK&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="VK logo"  />
   </a>
 </div>
