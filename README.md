@@ -39,7 +39,7 @@ Fullstack-разработчик из Москвы. Выпускник МГТУ 
 | **BRAT** *(private)* | MOBA-игра в стиле Dota 2 в сеттинге «Смута» (русское тёмное фэнтези), 113 героев | TypeScript, Three.js, ECS, Socket.io, Electron |
 | **new-lyceum** *(private)* | Сайт + мобильное приложение лицея Иннополис | React, Vite, Tailwind |
 | **nexus-bot** *(private)* | Telegram-бот для управления задачами и запуска Claude Code агентов | TypeScript, grammY, Pino, Zod |
-| [krasniy-yar-site](https://github.com/GarpikeS/krasniy-yar-site) | Сайт жилого комплекса | HTML, CSS, JS |
+| [krasniy-yar-site](https://github.com/GarpikeS/krasniy-yar-site) | Сайт промышленного парка «Красный Яр» | HTML, CSS, JS |
 
 ---
 
@@ -86,6 +86,11 @@ Fullstack-разработчик из Москвы. Выпускник МГТУ 
 ### Статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GarpikeS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=ru&hide_border=false&order=1" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GarpikeS&locale=ru&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GarpikeS&theme=dracula" alt="profile details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarpikeS&theme=dracula" height="150" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GarpikeS&theme=dracula&hide_border=false" height="150" alt="streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GarpikeS&theme=dracula&utcOffset=3" height="150" alt="productive time" />
 </div>
