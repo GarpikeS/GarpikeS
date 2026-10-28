@@ -1,12 +1,12 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://github.com/GarpikeS/GarpikeS/blob/main/1488792846146085519.gif" />
+  <img height="300" width="600" src="https://github.com/GarpikeS/GarpikeS/blob/main/1488792846146085519.gif" alt="Анимированный баннер профиля" />
 </div>
 
 ###
 
-<h1 align="center">Привет! Меня зовут Владимир <img height="30" width="30" src="https://github.com/GarpikeS/GarpikeS/blob/main/bloggif_6810e21b20277.gif" /></h1>
+<h1 align="center">Привет! Меня зовут Владимир <img height="30" width="30" src="https://github.com/GarpikeS/GarpikeS/blob/main/bloggif_6810e21b20277.gif" alt="Привет" /></h1>
 
 <p align="center">
   <a href="https://t.me/lliWnorI" target="_blank">
@@ -21,29 +21,70 @@
 
 ### Обо мне
 
-Fullstack-разработчик из Москвы. Выпускник МГТУ им. Баумана (Мехатроника и робототехника), прошёл Цифровую кафедру по ИБ и 1С.
+Мне **23 года**, я fullstack-разработчик из Москвы. Выпускник **МГТУ им. Н. Э. Баумана**, направление «Мехатроника и робототехника». Прошёл Цифровую кафедру по информационной безопасности и 1С.
 
-Начинал с Python и Django, сейчас основной стек — **TypeScript, React, Node.js**. Делаю веб-приложения, игры, Telegram-ботов и образовательные платформы. Люблю доводить проекты до продакшна и деплоить на свои серверы.
+Начинал с Python и Django, сейчас основной стек — **TypeScript, React и Node.js**. Разрабатываю веб-приложения, образовательные платформы, Telegram-ботов и desktop-приложения. Отдельное направление — **AI-инструменты и автоматизация**: агентские рабочие процессы, генерация контента и интеграции сервисов.
+
+Веду проекты от задачи и интерфейса до API, базы данных, тестирования, развёртывания и поддержки на собственных серверах.
+
+### Чем занимаюсь
+
+- **Веб-продукты:** личные кабинеты, интернет-магазины, корпоративные сайты и внутренние инструменты.
+- **Образование:** интерактивные уроки, онлайн-редакторы кода, автоматическая проверка заданий и учёт прогресса.
+- **AI и автоматизация:** Telegram-боты, маршрутизация запросов к моделям, агентские навыки и медиапайплайны.
+- **Интеграции и инфраструктура:** REST API, платежи, 1С, Docker, Linux, Nginx и CI/CD.
 
 ---
 
-### Проекты
+### Избранные публичные проекты
 
-| Проект | Описание | Стек |
-|--------|----------|------|
-| [termburg](https://github.com/GarpikeS/termburg) | Сайт термального комплекса Термбург — услуги, расписание, прайс, онлайн-покупка билетов | React, TypeScript, Tailwind, Vite |
-| [termliny-game](https://github.com/GarpikeS/termliny-game) | Браузерная игра про духов-хранителей бань Термбурга | TypeScript, Canvas |
-| [Teacher-Site](https://github.com/GarpikeS/Teacher-Site-Lyceum-Innopolis) | Образовательная платформа Python/C++ для 7-11 класса с онлайн-исполнением кода в Docker-песочницах | Next.js, Express, PostgreSQL, Docker |
-| **Mafia** *(private)* | Онлайн-игра «Мафия» с real-time мультиплеером | Node.js, Express, Socket.io |
-| **Numera** *(private)* | Бизнес-экосистема для майнинг-индустрии — маркетплейс, аналитика, личный кабинет | React, Vite, Tailwind, Express, TypeScript |
-| **BRAT** *(private)* | MOBA-игра в стиле Dota 2 в сеттинге «Смута» (русское тёмное фэнтези), 113 героев | TypeScript, Three.js, ECS, Socket.io, Electron |
-| **new-lyceum** *(private)* | Сайт + мобильное приложение лицея Иннополис | React, Vite, Tailwind |
-| **nexus-bot** *(private)* | Telegram-бот для управления задачами и запуска Claude Code агентов | TypeScript, grammY, Pino, Zod |
-| [krasniy-yar-site](https://github.com/GarpikeS/krasniy-yar-site) | Сайт промышленного парка «Красный Яр» | HTML, CSS, JS |
+#### Веб-приложения и desktop
+
+| Проект | Что внутри | Технологии |
+|---|---|---|
+| [Термбург](https://github.com/GarpikeS/termburg) | Сайт термального комплекса: услуги, расписание, билеты, интеграции с CMS и оплатой | React, TypeScript, Vite, Tailwind CSS, WordPress, WooCommerce |
+| [Термбург — рабочее место](https://github.com/GarpikeS/termburg-workstation) | Desktop-приложение для расписания и интеграции с Dolphin; отдельный канал обновлений | Electron, Node.js, TypeScript |
+| [Code Learning Platform](https://github.com/GarpikeS/Teacher-Site-Lyceum-Innopolis) | Платформа изучения Python и C++: уроки, редактор кода, автопроверка, роли учеников и преподавателей | Next.js, TypeScript, Express, PostgreSQL, Redis, Docker |
+| [PartyStore](https://github.com/GarpikeS/partystore) | Интернет-магазин игр для компании | Next.js, TypeScript, Supabase, Tailwind CSS |
+| [Красный Яр](https://github.com/GarpikeS/krasniy-yar-site) | Сайт промышленного парка | HTML, CSS, JavaScript |
+
+#### AI-инструменты и автоматизация
+
+| Проект | Что внутри | Технологии / подход |
+|---|---|---|
+| [Shorts Autopilot](https://github.com/GarpikeS/shorts-autopilot) | Подготовка вертикальных видео из JSON-сценария: озвучка, рендеринг, проверка повторов и QA; отдельный учёт публикаций | Python, FFmpeg, TTS, PowerShell |
+| [Alsy / Simba / ROP](https://github.com/GarpikeS/claude-code-alsy-team) | Набор агентских ролей и навыков для бизнес-задач, разработки продуктов и продаж | Claude Code, Markdown skills, Shell |
+| [VUZ Project Training](https://github.com/GarpikeS/vuz-project-training) | Открытый каркас проверки качества агентских ролей: нейтральные кейсы, критерии оценки и обратная связь | Benchmarks, rubrics, role playbooks |
+| [AI Lobby](https://github.com/GarpikeS/n8n-ai-lobby) | Маршрутизация запросов к AI-моделям по типу задачи, скорости и стоимости | n8n, OpenRouter, webhooks |
+
+#### Игры
+
+| Проект | Что внутри | Технологии |
+|---|---|---|
+| [Mafia Game](https://github.com/GarpikeS/mafia-game) | Онлайн-мафия с ведущим, ботами, игровыми комнатами и восстановлением соединения | Node.js, Express, Socket.io, JavaScript |
+
+[Все публичные репозитории →](https://github.com/GarpikeS?tab=repositories&type=public)
+
+### Другие проекты
+
+Часть проектов находится в закрытых репозиториях:
+
+- **Numera** — веб-приложения и инструменты для майнинг-индустрии: маркетплейс, аналитика, личный кабинет.
+- **new-lyceum** — сайт и мобильное приложение для лицея Иннополис.
+- **nexus-bot** — Telegram-интерфейс для управления задачами и запуска AI-агентов.
+- **BRAT** — игровой проект в жанре MOBA с использованием TypeScript, Three.js и ECS.
 
 ---
 
 ### Стек технологий
+
+| Направление | Инструменты |
+|---|---|
+| Frontend | TypeScript, JavaScript, React, Next.js, Vite, Tailwind CSS |
+| Backend и данные | Node.js, Express, Python, Django, PostgreSQL, Redis |
+| Интеграции и автоматизация | REST API, WebSocket / Socket.io, Telegram Bot API, n8n, FFmpeg |
+| Desktop и графика | Electron, Three.js |
+| Инфраструктура и качество | Docker, Linux, Nginx, Git, GitHub Actions, автоматизированные тесты |
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
@@ -81,16 +122,45 @@ Fullstack-разработчик из Москвы. Выпускник МГТУ 
   <img src="https://skillicons.dev/icons?i=electron" height="40" alt="Electron" />
 </div>
 
+
 ---
 
-### Статистика
+### Статистика GitHub
+
+**Срез на 29 октября 2026 года.** Данные получены через GitHub API.
+
+| Показатель | Значение |
+|---|---:|
+| Публичные репозитории | **21** |
+| Из них собственные / форки | **20 / 1** |
+| Подписчики | **8** |
+| Contributions за 01.01–29.10.2026 | **196** |
+| Коммиты, учтённые в contributions за этот период | **174** |
+| Созданные pull requests за этот период | **6** |
+
+GitHub учитывает активность по своим правилам привязки коммитов к профилю. Закрытые репозитории в количество публичных проектов не входят.
+
+<details>
+<summary>Графики активности</summary>
+
+Карточки обновляются внешними сервисами с кэшированием; их периоды и правила подсчёта могут отличаться от среза выше.
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GarpikeS&theme=dracula" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GarpikeS&theme=dracula" alt="График contributions GitHub за последние 12 месяцев" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarpikeS&theme=dracula" height="150" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GarpikeS&theme=dracula&hide_border=false" height="150" alt="streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GarpikeS&theme=dracula&utcOffset=3" height="150" alt="productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarpikeS&theme=dracula" height="150" alt="Сводная статистика публичной активности GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GarpikeS&theme=dracula&hide_border=false" height="150" alt="Серии активности GarpikeS на GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GarpikeS&theme=dracula&utcOffset=3" height="150" alt="Распределение коммитов по часам, UTC+3" />
 </div>
+
+</details>
+
+---
+
+### Связаться со мной
+
+[Telegram — @lliWnorI](https://t.me/lliWnorI) · [VK](https://vk.com/popugau_kesha)
+
+Можно написать по поводу веб-разработки, интеграций, Telegram-ботов и автоматизации.
