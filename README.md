@@ -108,4 +108,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GarpikeS&theme=dracula&utcOffset=3" height="150" alt="productive time" />
 </div>
 
-На **29 октября 2026 года**: **21 публичный репозиторий**, из них **20 собственных и 1 форк**. Числа сверены с GitHub API; графики выше обновляются внешними сервисами.
